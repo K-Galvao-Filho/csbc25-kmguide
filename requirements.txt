@@ -7,3 +7,4 @@ markdown
 groq
 google-api-python-client
 fpdf
+gradio

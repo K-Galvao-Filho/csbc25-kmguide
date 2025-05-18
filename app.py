@@ -156,9 +156,9 @@ def executar_equipe_interface(disciplina, assunto, topicos_str, horas, dias):
             "a saida deverá ser:"
             "- Caso a lista de vídeos não contenha resultados relevantes,"
             "pode haver a inserção automática de um vídeo genérico (exemplo:"
-            "\url{https://www.youtube.com/watch?v=dQw4w9WgXcQ}), utilizado"
+            "\\url{https://www.youtube.com/watch?v=dQw4w9WgXcQ}), utilizado"
             "como marcador de ausência de vídeos sobre o tema buscado."
-           " Nesses casos, a saída deve ser:"
+            " Nesses casos, a saída deve ser:"
             "##Não foram encontrados vídeos sobre o assunto"
         ),
         agent=agentYoutube,
